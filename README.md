@@ -9,6 +9,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/ricardo-lu-92a7b5193/](https://www.linkedin.com/in/ricardo-lu-92a7b5193/)
 
 🧠 Technical Skills
+
 	•	Programming & Tools: Python, R, SQL, VBA, Excel (Macros), Git
 	•	Data Science & Machine Learning: Scikit-learn, XGBoost, KNN, Random Forest, Deep Learning (Keras/TensorFlow), Hierarchical Clustering
 	•	Causal Inference: Propensity Score Matching, Inverse Probability Weighting, ATE Estimation
@@ -20,7 +21,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: yuanming.lu@mail.mcgill.ca </h3>
 <p align="left">
 </p>
 
