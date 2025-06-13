@@ -21,7 +21,7 @@
 
 
 
-<h3 align="left">Connect with me: yuanming.lu@mail.mcgill.ca </h3>
+<h3 align="left">Connect with me: luyuanming88666687@gmail.com </h3>
 <p align="left">
 </p>
 
