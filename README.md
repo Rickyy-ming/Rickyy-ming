@@ -6,7 +6,7 @@
 📊 I specialize in machine learning, data analyst, and cloud-based data pipelines, with a strong foundation in both statistical thinking and business applications.
 💼 I recently worked on a predictive analytics project with Rio Tinto, building real-time data workflows using Dataiku and Kafka to improve production performance.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ricardo-lu-92a7b5193/](https://www.linkedin.com/in/ricardo-lu-92a7b5193/)
+- 📄 Know about my experiences https://ricardoming.lovable.app/ 
 
 🧠 Technical Skills
 
